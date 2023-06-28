@@ -34,6 +34,7 @@ This tool is meant to be used for **educational purposes** only. We are not resp
 - Recode with classes and shit, this is barebones.
 - Database to hold multiple accounts and settings.
 - Account switcher.
+- Autoload upon open with last cfg.
 
 ## 📚 License 
 
