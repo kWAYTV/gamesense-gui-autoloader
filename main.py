@@ -49,7 +49,6 @@ def browse_file():
 def inject_skeet():
     
     loader_path = file_location_var.get()
-    autoinject = inject_checkbox.get()  # Assign the autoinject checkbox value to a variable
 
     # Execute the .exe in that path with "--load=1" parameter
     for file in os.listdir(loader_path):
