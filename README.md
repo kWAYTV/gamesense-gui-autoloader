@@ -29,6 +29,12 @@ You can customize the autoloader's behavior via the `GUI` 📝. Please ensure to
 
 This tool is meant to be used for **educational purposes** only. We are not responsible for any misuse of this tool. Cheating can lead to game bans. Play responsibly! 
 
+## 📝 Todo
+
+- Recode with classes and shit, this is barebones.
+- Database to hold multiple accounts and settings.
+- Account switcher.
+
 ## 📚 License 
 
 GameSense GUI Autoloader is released under the MIT License. See `LICENSE` for more information.
